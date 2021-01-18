@@ -1,0 +1,7 @@
+15:16:39.571 [TestNG-tests-1] INFO  resources.Base - Closed browser
+15:45:49.369 [TestNG-tests-2] INFO  resources.Base - Driver is initialised
+15:45:50.243 [TestNG-tests-1] INFO  resources.Base - Driver is initialised
+15:45:53.939 [TestNG-tests-1] INFO  resources.Base - Navigated to Home Page 
+15:45:53.993 [TestNG-tests-2] INFO  resources.Base - Navigated to Home Page 
+15:45:57.919 [TestNG-tests-1] INFO  resources.Base - Driver is initialised
+15:45:59.644 [TestNG-tests-1] INFO  resources.Base - Navigated to Home Page 

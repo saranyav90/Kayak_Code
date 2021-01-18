@@ -1,0 +1,8 @@
+10:56:19.869 [main] INFO  resources.Base - Successfully validated match.
+10:56:31.259 [main] INFO  resources.Base - Successfully validated match.
+10:56:31.461 [main] INFO  resources.Base - Closed browser
+15:42:17.096 [main] INFO  resources.Base - Driver is initialised
+15:42:19.816 [main] INFO  resources.Base - Navigated to Home Page 
+15:42:20.088 [main] INFO  resources.Base - Successfully validated title.
+15:42:20.222 [main] INFO  resources.Base - Closed browser
+15:43:16.343 [main] INFO  resources.Base - Driver is initialised
